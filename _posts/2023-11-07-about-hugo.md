@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "About Hugo"
+title: "About My"
 author: "Hugo"
 categories: alumno
 ---
-hola soy hugo
+Hola soy Hugo Calvo y esta es mi presentacion.Espero que les guste mi sitio.
